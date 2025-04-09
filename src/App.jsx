@@ -4,6 +4,7 @@ import { LuInstagram } from "react-icons/lu";
 import { FaTwitter } from "react-icons/fa";
 import { DiGithubBadge } from "react-icons/di";
 import { RiBasketballLine } from "react-icons/ri";
+import "./index.css"
 
 const App=()=>{
  return (
